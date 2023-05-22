@@ -1,5 +1,5 @@
 # Amazon Price Alert
-A simple python script which allows you to create macros using the "pyautogui" library
+A simple script made in Python which allows you to track the price of a product by sending you the results via email.
 
 Soon the guide will be uploaded in the same repository
 
